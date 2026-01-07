@@ -1496,8 +1496,8 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 330585548}
         m_TargetAssemblyTypeName: MenuTravel, Assembly-CSharp
-        m_MethodName: makeMenu
-        m_Mode: 3
+        m_MethodName: ExitGame
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -5802,7 +5802,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2042241924
 RectTransform:
   m_ObjectHideFlags: 0
